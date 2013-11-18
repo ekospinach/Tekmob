@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 1</name>
+    <events>
+        <event-block sid="3380156305394259">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="4209497764033915" type="System" />
+            </conditions>
+            <actions>
+                <action id="0" name="Request camera" sid="6118129270221967" type="UserMedia" />
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
